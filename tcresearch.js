@@ -1,5 +1,5 @@
 $(function(){
-	var latest_version = "6.1.BETA24";
+	var latest_version = "4.2.3.5";
 	$.each(version_dictionary, function(key,version){
 		$("#version").append("<option value="+key+">"+key+"</option>");
 	});
