@@ -67,5 +67,5 @@ var translate = {
 	"stupidity": "stronito",
 	"fortify": "praemunio",
 	"aversion": "aversio",
-	"wish": "desiderum"
+	"wish": "desiderium"
 };
