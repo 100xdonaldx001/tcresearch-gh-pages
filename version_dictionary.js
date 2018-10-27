@@ -406,7 +406,7 @@ var version_dictionary = {
 			"wish": ["soul", "void"],
 			"undead": ["motion", "death"],
 			"beast": ["motion", "life"],
-			"man": ["soul", "life"],
+			"man": ["soul", "life"]
 		}
 	}
 };
