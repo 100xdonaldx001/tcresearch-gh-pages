@@ -365,5 +365,48 @@ var version_dictionary = {
 			"crystal": ["earth", "air"],
 			"flight": ["air", "motion"]
 		}
+	},
+	"6.1.BETA24": {
+		"base_aspects":[
+		"air",
+		"earth",
+		"fire",
+		"water",
+		"order",
+		"entropy"
+		],
+		"combinations": {
+			"void": ["air","entropy"],
+			"light":["air","fire"],
+			"motion":["air","order"],
+			"ice":["fire","entropy"],
+			"crystal":["earth","air"],
+			"metal":["earth","order"],
+			"victus":["earth","water"],
+			"mortuus":["water","entropy"],
+			"energy":["order","fire"],
+			"exchange": ["entropy", "order"],
+			"magic": ["void", "energy"],
+			"aura": ["magic", "air"],
+			"alchemy":["magic","water"],
+			"taint": ["magic", "entropy"],
+			"darkness": ["void", "light"],
+			"eldritch": ["void", "darkness"],
+			"flight": ["air", "motion"],
+			"plant": ["life", "earth"],
+			"tool": ["metal", "energy"],
+			"craft": ["exchange", "tool"],
+			"mechanism": ["motion", "tool"],
+			"trap": ["motion", "entropy"],
+			"soul": ["life", "death"],
+			"mind": ["fire", "soul"],
+			"senses": ["air", "soul"],
+			"aversion": ["soul", "entropy"],
+			"fortify": ["soul", "earth"],
+			"wish": ["soul", "void"],
+			"undead": ["motion", "death"],
+			"beast": ["motion", "life"],
+			"man": ["soul", "life"],
+		}
 	}
 };
