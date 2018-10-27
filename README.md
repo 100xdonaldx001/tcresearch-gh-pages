@@ -1,5 +1,6 @@
 # Original Thaumcraft 4.1 Research Helper
 [Thaumcraft Research Helper](http://ythri.github.io/tcresearch/)
+
 [Thaumcraft Research Helper v2](http://100xdonaldx001.github.io/tcresearch-v2.0/)
 
 ## Using 
